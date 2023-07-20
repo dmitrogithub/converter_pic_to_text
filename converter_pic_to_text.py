@@ -43,7 +43,7 @@ class Ui_Main_converter(object):
             "German": "de", "Italian": "it", "Portuguese": "pt", "Dutch": "nl", "Polish": "pl",
             "Czech": "cs", "Slovak": "sk", "Slovenian": "sl", "Croatian": "hr", "Serbian": "sr",
             "Bosnian": "bs", "Macedonian": "mk", "Albanian": "sq", "Armenian": "hy", "Georgian": "ka",
-            "Greek": "el", "Turkish": "tr",
+            "Greek": "el", "Turkish": "tr", 
         }
         global model
         model = QtGui.QStandardItemModel()
